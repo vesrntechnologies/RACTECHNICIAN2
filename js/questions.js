@@ -2,62 +2,62 @@
 let questions = [
     {
     numb: 1,
-    question: "Which extinguishes the fire of flammable liquids?",
+    question: "Which compressor has the least volumetric efficiency?",
   //  immg:"img1",
-    answer: "CO2",
+    answer: "Reciprocation",
     options: [
-      "Water",
-      "Air",
-      "CO2",
-      "Oil"
+      "Screw",
+      "Scroll",
+      "Rotary",
+      "Reciprocation"
     ]
   },
       {
     numb: 2,
-    question: "What is the type of chisel?",
-    immg:"img2",
-    answer: "Diamond Point",
+    question: "Which part is fixed on a rotating shaft of centrifugal compressor?",
+    //immg:"img2",
+    answer: "Impeller",
     options: [
-      "Flat",
-      "Cross Cut",
-      "Half round",
-      "Diamond Point"
+      "Piston",
+      "Scroll",
+      "Impeller",
+      "Screw"
     ]
   },
      {
     numb: 3,
-    question: "Which materials are used to make mallets?",
+    question: "What is the name of part marked X used for mounting compressor base",
    
-    answer: "Wood, rubber",
+    answer: "Shims",
     options: [
-      "Wood, cast iron",
-      "Wood, rubber",
-      "Rubber, brass",
-      "Wood, brass"
+      "O ring",
+      "C Clamp",
+      "Packing Sheet",
+      "Shims"
     ]
   },
     {
     numb: 4,
-    question: "What is tje angle marked as X in sheet metal V notch?",
-    immg:"img4",
-    answer: "90o",
+    question: "Which compressor uses whirl vein mechanism for controlling capacity",
+  //  immg:"img4",
+    answer: "centrifugal",
     options: [
-      "90o",
-      "60o",
-      "45o",
-      "30o"
+      "scroll",
+      "rotary",
+      "centrifugal",
+      "reciprocation"
     ]
   },
     {
     numb: 5,
-    question: "Which tool is used for bending, seaming and forming of sheet metal?",
-    //immg:"img2",
-    answer: "Stakes",
+    question: "Which testing operation is in progress between the flanges of compressor and motor?",
+    immg:"img5",
+    answer: "Angular alignment",
     options: [
-      "Bench vice",
-      "Hand Vice",
-      "Stakes",
-      "Shear"
+      "Parallel alignment",
+      "Angular alignment",
+      "Tangential alignment",
+      "Circular alignment"
     ]
   },
       {
